@@ -1,0 +1,41 @@
+*{
+    border: 0;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    cursor: pointer;
+}
+
+
+#map{
+    width: 80vw;
+    height: 100vh;
+    cursor: pointer;
+}
+
+.main{
+
+    display: flex;
+    height: 100vh;
+    width: 100%;
+    
+    
+}
+
+.mapview{
+    width: 70%;
+    margin: 3%;
+}
+.sidepanel{
+
+    width: 20%;
+    margin: 3%;
+    padding: 3%;
+    background-color: rgb(222, 247, 247);
+}
+
+span{
+    color: rgb(4, 101, 247);
+    padding: 10px;
+    font-weight: bold;
+}
