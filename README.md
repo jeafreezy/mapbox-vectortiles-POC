@@ -21,3 +21,6 @@ response = {"id": "mapbox://tileset-source/jeafreezy/grid", "files": 1, "source_
 - access url in mapbox studio
 - connect to mapbox gl js as source
 - did some other logics on features in JS
+
+
+Reference : https://labs.mapbox.com/what-the-tile/
