@@ -34,7 +34,7 @@ let totalPrice = 0;
 let selectedFeatures = 0; 
 var clickedIds = [];
 
-var ACCESS_TOKEN = 'pk.eyJ1IjoiamVhZnJlZXp5IiwiYSI6ImNrYmpicjczYjBucjIyeGxzNGRjNHMxejEifQ.bY_8hqCiG-LBMG1xXreqdA';
+var ACCESS_TOKEN = '';
 
 const map = new mapboxgl.Map({
   container: mapContainer, 
