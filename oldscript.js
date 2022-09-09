@@ -10,7 +10,7 @@ const map = new mapboxgl.Map({
     minZoom:16,
     zoom:17,
     maxZoom:20,
-    accessToken:'pk.eyJ1IjoiamVhZnJlZXp5IiwiYSI6ImNrYmpicjczYjBucjIyeGxzNGRjNHMxejEifQ.bY_8hqCiG-LBMG1xXreqdA'
+    accessToken:''
 })
 
 // Add zoom and rotation controls to the map.
